@@ -1,0 +1,13 @@
+svg {
+
+}
+
+.g_node {
+  width: auto;
+  height: auto;
+  cursor: pointer;
+}
+
+.t_node {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
